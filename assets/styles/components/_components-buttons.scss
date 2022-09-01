@@ -1,0 +1,35 @@
+@import "../app-variables";
+
+.btn {
+    background-color: $primary;
+    box-shadow: $therdery-shadow;
+    color: $text-color-secondary;
+    text-transform: capitalize;
+    padding: 10px 25px;
+    border: none;
+    outline: none;
+    line-height: 1;
+
+    &--arrowed  {
+        
+        &::after {
+            content: "→";
+            height: 100%;
+            display: inline-block; 
+            margin-left: 5px;
+            color: $text-color-secondary;
+            font-size: 1*$font-size-base;
+        }
+    }
+
+    &:hover {
+        background-color: $secondary;
+        box-shadow: $primary-shadow;
+        color: $text-color-secondary;
+    }
+
+    &:disabled {
+        color: lightgray;
+        pointer-events: none;
+    }
+}

@@ -1,0 +1,59 @@
+@import "../app-variables";
+
+.form {
+    background-color: $primary;
+    padding: 30px 15px;
+    border-radius: 5px;
+
+    &--linear {
+        min-width: 500px;
+        max-width: 1000px;
+        width: 1000px;
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: space-around;
+        align-items: center;
+
+        label {
+            white-space: pre;
+        }
+
+        & > *:not(:last-child) {
+            margin: 0 20px 0 0;
+        }
+    }
+
+    &--column {
+        // min-width: 500px;
+        width: 90%;
+
+        & > *:not(:last-child) {
+            margin: 0 0 30px 0;
+        }
+    }
+
+    &__title {
+        display: flex;
+        justify-content: center;
+    }
+
+    &__line {
+        display: flex;
+        flex-flow: row nowrap;
+        align-items: center;
+    }
+
+    &__group {
+        display: flex;
+        flex-flow: column wrap;
+    }
+
+    &__control {
+        display: flex;
+    }
+
+    &__btn-line {
+        display: flex;
+        justify-content: center;
+    }
+}

@@ -1,0 +1,111 @@
+@import "../app-variables";
+
+.container {
+    width: calc(100vw - 20px);
+    margin: 0 auto;
+
+    &__title {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+    
+    @include for-phone-up {
+        // width: $container-width-phone;
+    }
+
+    @include for-tablet-portrait-up {
+        width: calc(100vw - 30px);
+    }
+
+    @include for-tablet-landscape-up {
+        width: calc(100vw - 40px);
+        // width: $container-width-tablet-landscape;
+        // margin: 0 30px 0 30px;
+    }
+
+    @include for-desktop-up {
+        width: $container-width-desktop;
+    }
+}
+
+.row {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+
+    &--centered {
+        justify-content: center;
+    }
+
+    &--left-aligned {
+        justify-content: flex-start;
+    }
+
+    &--right-aligned {
+        justify-content: flex-end;
+    }
+
+    &--space-btw {
+        justify-content: space-between;
+    }
+
+    &--no-wrap {
+        flex-flow: row nowrap;
+    }
+}
+
+.column {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+
+    &--centered {
+        align-items: center;
+    }
+
+    &--left-aligned {
+        align-items: flex-start;
+    }
+
+    &--right-aligned {
+        align-items: flex-end;
+    }
+}
+
+.cloud {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 175px;
+    height: 60px;
+    padding: 30px 15px;
+    margin-top: 35px;
+    background: #eceff1;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 50px;
+    position: relative;
+    margin-bottom: 30px;
+
+    &::after,
+    &::before {
+        content: "";
+        position: absolute;
+        display: inline-block;
+        background: inherit;
+        border-radius: inherit;
+        z-index: -1;
+    }
+    &::after {
+        width: 50px;
+        height: 50px;
+        top: -30px;
+        left: 25px;
+    }
+    &::before {
+        width: 90px;
+        height: 90px;
+        top: -35px;
+        left: 65px;
+    }
+}

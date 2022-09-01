@@ -1,0 +1,32 @@
+
+.show-on-tablet {
+    display: flex !important;
+
+    @include for-desktop-up {
+        display: none !important;
+    }
+}
+
+.hide-on-tablet {
+    display: none !important;
+
+    @include for-desktop-up {
+        display: flex !important;
+    }
+}
+
+.show-on-tablet-portrait {
+    display: flex !important;
+
+    @include for-tablet-landscape-up {
+        display: none !important;
+    }
+}
+
+.hide-on-tablet-portrait {
+    display: none !important;
+
+    @include for-tablet-landscape-up {
+        display: flex !important;
+    }
+}

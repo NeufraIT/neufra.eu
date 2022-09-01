@@ -1,0 +1,64 @@
+{
+    "header" : {
+        "home" : "Bienvenue chez NEUFRA",
+        "company" : " société ",
+        "locations" : "sites",
+        "services" : "services",
+        "career" : "carrière",
+        "transportCompany" : "entreprise de transport",
+        "legalNotice" : "mentions légales",
+        "dataPrivacy" : "protection des données"
+    },
+    "company" : {
+        "expericence" : {
+            "title" : "Plus de 40 ans d'expérience dans le transport",
+            "info" : "Depuis 1979, nous prenons en charge des chargements complets et partiels, optimisons leur composition et distribuons les envois avec des transporteurs sélectionnés et contrôlés vers leur destination respective."
+        },
+        "partner" : {
+            "title" : "Partenaire neutre",
+            "info" : " Notre philosophie d'entreprise a été dès le début de travailler exclusivement de manière neutre pour d'autres entreprises de transport et de se spécialiser dans le transport par camion."
+        },
+        "sustainable" : {
+            "title" : "Tout d'une seule main",
+            "info" : "Nous ne nous contentons pas d'acheminer votre envoi à destination, nous contrôlons également tous les mouvements des moyens de chargement et veillons à un rapatriement rapide en cas de dette de moyens de chargement. En cas de dommage, les demandes d'indemnisation éventuelles sont traitées immédiatement. En cas de sinistres compliqués, nous coopérons avec notre filiale GSS Güter-Schaden-Service GmbH.(Veuillez afficher le nom de la société GSS sous forme de lien vers la page d'accueil :"
+        },
+        "specialty" : {
+            "title" : "Spécialiste en transport par camion",
+            "info" : "En tant que spécialiste, nous sommes meilleurs que le fournisseur global - à votre avantage. Chaque jour, nous affrétons environ 1.200 camions, répartis dans 33 succursales NEUFRA en Europe."
+        },
+        "direct-transportation" : {
+            "title" : "Transport direct sans transbordement",
+            "info" : "Vos envois sont transportés directement vers le destinataire, sans transbordement, de sorte qu'ils arrivent rapidement et de manière fiable à la destination souhaitée, avec un risque de dommages minimisé."
+        },
+        "shipment-tracking" : {
+            "title" : "Suivi de l'expédition sur demande",
+            "info" : "Nous suivons votre envoi jusqu'à son déchargement chez le destinataire. Si vous le souhaitez, vous pouvez recevoir à tout moment des mises à jour de notre statut."
+        }
+        ,
+        "digitalisation-partner" : {
+            "title" : "Partenaire pour un avenir numérique",
+            "info" : "Avec notre équipe informatique, nous ne cessons de développer nos programmes. AvecColleta, nous allons poursuivre sur la voie de la numérisation."
+        },
+        "history":{
+            "first" : "Ce qui a commencé le 01.01.1979 avec 5 personnes au total s'est développé jusqu'à aujourd'hui pour devenir un prestataire de services de transport international avec plus de 400 collaboratrices et collaborateurs dans 33 succursales en Europe",
+            "second" : "Dans les années 80, l'accent a été mis sur la mise en place d'un réseau de succursales couvrant l'ensemble de l'ancienne République fédérale d'Allemagne, afin de répondre aux exigences croissantes des clients du secteur de l'expédition. Après le tournant politique de 1989, NEUFRA-Spedition s'est également développée dans les nouveaux Länder. Parallèlement à l'extension du réseau allemand de succursales, la décision stratégique de faire de NEUFRA une entreprise de transport de dimension européenne a été prise dans les années 90. En conséquence, des filiales ont été créées en Italie et en Hongrie",
+            "third" : "Après le changement de millénaire, des filiales ont été créées en Autriche, en Pologne, en Espagne et en République tchèque. Actuellement, la numérisation joue naturellement aussi un rôle particulier. Non seulement les processus administratifs ont été et sont simplifiés numériquement pour NEUFRA et ses partenaires commerciaux, mais le développement d'une propre application web et d'une app pour la gestion du fret assure l'avenir du groupe NEUFRA à l'ère numérique."
+        }
+    },
+    "locations" : {
+        "legalNotice" : "entreprise"
+    },
+    "services" : {
+        "legalNotice" : "entreprise"
+    },
+    "career" : {
+        "legalNotice" : "entreprise"
+    },
+    "transportCompany" : {
+        "legalNotice" : "entreprise"
+    },
+    "footer" : {
+        "legalNotice" : "mentions légales",
+        "dataPrivacy" : "protection des données"
+    }
+}

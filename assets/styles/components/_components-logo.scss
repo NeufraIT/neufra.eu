@@ -1,0 +1,71 @@
+@import "../app-variables";
+@import "../settings/settings-breakpoints";
+
+.logo {
+    position: relative;
+    box-shadow: $primary-shadow;
+
+    &__img {
+        width: 60px;
+        height: auto;
+        box-shadow: $primary-shadow;
+
+        @include for-tablet-portrait-up {
+            width: $header-height-tablet-portrait;
+        }
+    
+        @include for-tablet-landscape-up {
+            width: $header-height-tablet-landscape;
+        }
+    
+        @include for-desktop-up {
+            width: 160px;
+        }
+    }
+    
+    @include for-desktop-up {
+        padding: 15px 15px 75px 15px;
+        background-color: $body-bg;
+    }
+
+    &::before,
+    &::after {
+        display: inline;
+        position: absolute;
+        color: $text-color-primary;
+        left: 110%;
+        width: 180px;
+
+        @include for-desktop-up {
+            left: 0;
+        }
+    }
+
+    &::before {
+        content: "Neutralität";
+        text-transform: uppercase;
+        font-size: 1 * $font-size-base;
+        font-weight: $font-weight-bolder;
+        top: 15px;
+        // font-family: 'Roboto', sans-serif;
+
+        @include for-desktop-up {
+            font-size: 1.3 * $font-size-base;
+            top: 155px;
+            padding: 20px 15px;
+        }
+    }
+
+    &::after {
+        content: "auf direktem Weg";
+        top: 30px;
+        font-size: $font-size-base;
+        letter-spacing: .2px;
+        // font-family: 'Roboto', sans-serif;
+
+        @include for-desktop-up {
+            top: 195px;
+            padding: 0 15px 10px 15px;
+        }
+    }
+}

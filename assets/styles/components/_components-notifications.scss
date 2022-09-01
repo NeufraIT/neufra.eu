@@ -1,0 +1,29 @@
+.notification-message {
+    font-style: italic;
+}
+
+.notification-message--error {
+    color: darkred;
+}
+
+.notification-message--ok {
+    color: darkgreen;
+}
+
+input.ng-valid.ng-dirty.ng-touched {
+    border-left: 5px solid darkgreen; /* green */
+}
+
+input.ng-invalid:not(form).ng-touched {
+    border-left: 5px solid darkred; /* red */
+}
+
+input.ng-invalid:not(form).ng-touched.password-group {
+    border: none;
+}
+
+.pass-dismatch {
+    input.ng-valid.ng-dirty.ng-touched {
+    border-left: 5px solid darkred; /* red */
+    }
+}

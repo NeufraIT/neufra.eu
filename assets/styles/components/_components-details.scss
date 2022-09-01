@@ -1,0 +1,34 @@
+@import "../app-variables";
+.details{
+
+    * {
+        color: $text-color-secondary;
+    }
+
+    img {
+        width: 20px;
+        height: 20px;
+        margin-right: 2px;
+    }
+
+    a {
+        display: flex;
+        flex-flow: row nowrap;
+        margin-bottom: 5px;
+        font-weight: $font-weight-thin;
+
+        &:hover {
+            transform: none;
+            text-decoration: underline;
+            color: $text-color-secondary;
+        }
+    }
+
+    &__name {
+        font-weight: $font-weight-semi-bold;
+    }
+
+    &__other {
+        font-weight: $font-weight-normal;
+    }
+}

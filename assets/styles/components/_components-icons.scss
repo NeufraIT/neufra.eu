@@ -1,0 +1,30 @@
+@import "../_app-variables";
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    cursor: pointer;
+
+    svg {
+        font-size: inherit;
+    }
+
+    &:hover {
+
+        svg {
+        fill: $text-color-primary;
+        }
+    }
+}
+
+
+i {
+    // display: flex;
+    // justify-content: center;
+    // align-items: center;
+    font-size: 30px;
+    cursor: pointer;
+}
+

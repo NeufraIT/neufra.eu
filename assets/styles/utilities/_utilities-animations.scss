@@ -1,0 +1,116 @@
+.animations-cloud-float {
+    animation-duration: 30000ms;
+    animation-timing-function: ease-out;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    animation-name: cloud-float;
+}
+
+
+.animations-fancy-list {
+    li {
+        animation-duration: 1000ms;
+        animation-timing-function: ease-out;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+        animation-name: fancy-list;
+    }
+
+    @for $i from 1 to 23 {
+        li:nth-child(#{$i}) {
+            animation-delay: 100ms * $i;
+        }
+    }
+}
+
+.animations-delayed-appaerance {
+    animation-duration: 600ms;
+    animation-timing-function: ease-out;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    animation-name: delayed-apearance;
+}
+
+.animations-delayed-disappaerance {
+    animation-duration: 600ms;
+    animation-timing-function: ease-in;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    animation-name: delayed-disapearance;
+}
+
+.animations-fancy-expand {
+    animation-duration: 1600ms;
+    animation-timing-function: ease-out;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    animation-name: fancy-expand;
+}
+
+.animations-fancy-close {
+    animation-duration: 1600ms;
+    animation-timing-function: ease-out;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    animation-name: fancy-close;
+}
+
+.animations-fancy-close {
+    animation-duration: 600ms;
+    animation-timing-function: ease-out;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    animation-name: fancy-close;
+}
+
+.animations-come-from-right {
+    animation-duration: 600ms;
+    animation-timing-function: ease-out;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    animation-name: come-from-right;
+    
+    @include for-desktop-up {
+        animation-name: none;
+    }
+    
+}
+
+// rotation
+.vert-to-45right ,
+.vert-to-45left,
+.inclined75-to-vert,
+.inclined-45-to-vert,
+.inclined-25-to-vert  {
+    transform-origin: center center;
+    animation-duration: 600ms;
+    animation-timing-function: linear;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.vert-to-45right {
+    animation-name: to-45-right;
+}
+
+.vert-to-45left {
+    animation-name: to-45-left;
+}
+
+.inclined75-to-vert {
+    animation-name: from75-to-vert;
+}
+
+.inclined-45-to-vert {
+    animation-name: from-45-to-vert;
+}
+
+.inclined-25-to-vert {
+    animation-name: from-25-to-vert;
+}
+
+.animation-bounce {
+    -webkit-animation: bounce 2s forwards ease-in-out;
+    animation: bounce 2s forwards ease-in-out;
+}
+

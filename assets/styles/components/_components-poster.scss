@@ -1,0 +1,192 @@
+@import "../app-variables";
+@import "../settings/settings-breakpoints";
+
+.poster {
+    &__img {
+        position: relative;
+        width: 100vw;
+        height: $poster-height-phone;
+
+        &--home {
+            height: calc((var(--vh, 1vh) * 100) - $header-height-phone);
+        }
+
+        @include for-tablet-portrait-up {
+            height: $poster-height-tablet-portrait;
+        }
+
+        @include for-tablet-landscape-up {
+            height: $poster-height-tablet-landscape;
+        }
+
+        @include for-desktop-up {
+            height: $poster-height-desktop;
+        }
+
+        &-pic {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: #cccccc;
+            /* Used if the image is unavailable */
+            height: 100%;
+            width: auto;
+
+            @include for-tablet-portrait-up {
+                width: 100vw;
+                height: auto;
+            }
+        }
+
+        &-text {
+            width: calc(100vw - 20px);
+           
+            position: absolute;
+            top: 190px;
+            left: 10px;
+            transform: translateY(-100%);
+            padding-bottom: 10px;
+            color: $text-color-secondary;
+            z-index: 2;
+
+            @include for-tablet-portrait-up {
+                top: 170px;
+                // width: $container-width-tablet-portrait;
+                // left: calc((100vw - $container-width-tablet-portrait)/2 );
+                padding-bottom: 15px;
+            }
+    
+            @include for-tablet-landscape-up {
+                top: 160px;
+                width: calc(100vw - 30px);
+                left: 15px;
+                padding-bottom: 15px;
+                // left: calc((100vw - $container-width-tablet-landscape)/2);
+            }
+    
+            @include for-desktop-up {
+                top: 150px;
+                padding-bottom: 20px;
+                // width: calc(100vw - 40px);
+                width: calc($container-width-desktop - 220px);
+                left: calc((100vw - $container-width-desktop)/2 + 220px);
+            }
+        }
+
+        &-title {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 2;
+            padding: 5px 20px;
+            color: $text-color-secondary;
+            text-transform: capitalize;
+            background-color: rgba($primary, 0.8);
+            clip-path: polygon(5% 0%, 100% 0%, 95% 100%, 0% 100%);
+            font-size: 1.7 * $font-size-base;
+            white-space: nowrap; 
+
+            @include for-tablet-portrait-up {
+                font-size: 2.2 * $font-size-base;
+                padding: 5px 30px;
+            }
+
+            @include for-tablet-landscape-up {
+                font-size: 2.4 * $font-size-base;
+                padding: 5px 40px;
+            }
+
+            @include for-desktop-up {
+                padding: 10px 50px;
+                font-size: 2.5 * $font-size-base;
+            }
+        }
+
+        &-title--primary,
+        &-title--secondary {
+            display: none;
+            text-transform: none;
+            left: unset;
+            right: 30px;
+            transform: translateY(-30px);
+
+            @include for-tablet-portrait-up {
+                display: block;
+                right: 50px;
+            }
+
+            @include for-desktop-up {
+                right: calc((100vw - $container-width-desktop)/2 + 50px);
+            }
+        }
+
+        &-title--secondary {
+            transform: translateY(30px);
+            font-size: 1.1 * $font-size-base;
+            font-weight: $font-weight-normal;
+
+            @include for-desktop-up {
+                font-size: 1.7 * $font-size-base;
+            }
+        }
+
+        &-title--text {
+            display: none;
+            font-weight: $font-weight-normal;
+            font-size: 1 * $font-size-base;
+            word-wrap: break-word;
+            white-space: unset; 
+            text-transform: none;
+
+            @include for-tablet-portrait-up {
+                transform: translate(-50%, 40px);
+                display: block;
+                width: 600px;
+            }
+
+            @include for-tablet-landscape-up {
+                transform: translate(-50%, 55px);
+                width: 700px;
+            }
+
+            @include for-desktop-up {
+                transform: translate(-50%, 70px);
+                width: 800px;
+                font-size: 1 * $font-size-base;
+            }
+        }
+
+        &-title--home {
+            min-height: calc(100% - $header-height-phone - $poster-height-phone);
+            background-color: rgba($primary, 0.8);
+            padding: 20px 20px;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            display: flex;
+            flex-flow: column nowrap;
+            z-index: 30;
+
+            * {
+                color: $text-color-secondary;
+                text-align: start;
+            }
+
+            h4, p {
+                font-weight: $font-weight-normal;
+            }
+
+            a, 
+            i {
+                align-self: center;
+            }
+
+            i {
+                font-size: 4 * $font-size-base;
+                font-weight: $font-weight-normal;
+            }
+        }
+    }
+}

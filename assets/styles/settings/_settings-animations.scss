@@ -1,0 +1,273 @@
+@keyframes cloud-float {
+    0% {
+        right: 0;
+        top: 20px;
+    }
+
+    100% {
+        right: calc(100% - 200px);
+        top: 20px;
+    }
+}
+
+@keyframes fancy-list {
+    0% {
+        transform: translateX(50px);
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes fancy-expand {
+    0% {
+        height: 0;
+        // opacity: 0;
+    }
+
+    25% {
+        height: 25%;
+        // opacity: 0.25;
+    }
+
+    50% {
+        height: 50%;
+        // opacity: 0.5;
+    }
+
+    100% {
+        height: 100%;
+        // opacity: 1;
+    }
+}
+
+@keyframes fancy-close {
+    0% {
+        height: 100%;
+        opacity: 1;
+    }
+
+    25% {
+        height: 50%;
+        opacity: 0.5;
+    }
+
+    50% {
+        height: 25%;
+        opacity: 0.25;
+    }
+
+    100% {
+        height: 0%;
+        opacity: 0;
+    }
+}
+
+@keyframes delayed-apearance {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes delayed-disapearance {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@keyframes come-from-right {
+    0% {
+        width: 0%;
+    }
+
+    25% {
+        width: 25%;
+    }
+
+    50% {
+        width: 50%;
+    }
+
+    100% {
+        width: 100%;
+    }
+}
+
+@keyframes to-45-right {
+    from {
+    }
+    to {
+        transform: rotate(-135deg);
+    }
+}
+@-webkit-keyframes to-45-right {
+    from {
+    }
+    to {
+        -webkit-transform: rotate(-135deg);
+    }
+}
+
+@keyframes to-45-left {
+    from {
+    }
+    to {
+        transform: rotate(-45deg);
+    }
+}
+
+@-webkit-keyframes to-45-left {
+    from {
+    }
+    to {
+        -webkit-transform: rotate(-45deg);
+    }
+}
+
+@keyframes to-90-right {
+    from {
+    }
+    to {
+        transform: rotate(90deg);
+    }
+}
+
+@keyframes to-90-left {
+    from {
+    }
+    to {
+        transform: rotate(-90deg);
+    }
+}
+
+@keyframes from-45-to-vert {
+    from {
+        transform: rotate(-135deg);
+    }
+    to {
+        transform: rotate(0);
+    }
+}
+
+@keyframes from-25-to-vert {
+    from {
+        transform: rotate(-25deg);
+    }
+    to {
+        transform: rotate(0);
+    }
+}
+
+@keyframes from75-to-vert {
+    from {
+        -webkit-transform: rotate(75deg);
+    }
+    to {
+        -webkit-transform: rotate(0);
+    }
+}
+
+
+@-webkit-keyframes from-45-to-vert {
+    from {
+        -webkit-transform: rotate(-135deg);
+    }
+    to {
+        -webkit-transform: rotate(0);
+    }
+}
+
+@-webkit-keyframes from-25-to-vert {
+    from {
+        -webkit-transform: rotate(-25deg);
+    }
+    to {
+        -webkit-transform: rotate(0);
+    }
+}
+
+@-webkit-keyframes from75-to-vert {
+    from {
+        -webkit-transform: rotate(75deg);
+    }
+    to {
+        -webkit-transform: rotate(0);
+    }
+}
+
+
+// album animations
+/* first image */
+@keyframes image1 {
+    0% {
+        transform: rotate(0deg) translate(0, 0) scale(1);
+    }
+    100% {
+        transform: rotate(-6deg) translate(-100px, -3px) scale(1.1);
+    }
+}
+
+/* second image:  webkit */
+@keyframes image2 {
+    0% {
+        transform: rotate(0deg) translate(0, 0) scale(1);
+    }
+    100% {
+        transform: rotate(0deg) translate(0, -3px) scale(1.1);
+    }
+}
+
+/* third image:  webkit */
+@keyframes image3 {
+    0% {
+        transform: rotate(0deg) translate(0, 0) scale(1);
+    }
+    100% {
+        transform: rotate(6deg) translate(100px, -3px) scale(1.1);
+    }
+}
+
+/* bounce animation */
+@keyframes bounce {
+    20% {
+        -webkit-transform: translate(0px, -40px) scale(1.2);
+        opacity: 0.8;
+        text-shadow: 0px 150px 20px rgba(0, 0, 0, 0.8);
+    }
+    40% {
+        -webkit-transform: translate(0px, 0px) scale(1.0);
+        opacity: 0.8;
+        text-shadow: 0px 150px 20px rgba(0, 0, 0, 0.8);
+    }
+    60% {
+        -webkit-transform: translate(0px, -20px) scale(1.1);
+        opacity: 0.8;
+        text-shadow: 0px 150px 20px rgba(0, 0, 0, 0.8);
+    }
+    80% {
+        -webkit-transform: translate(0px, 0px) scale(1.0);
+        opacity: 0.8;
+        text-shadow: 0px 150px 20px rgba(0, 0, 0, 0.8);
+    }
+    90% {
+        -webkit-transform: translate(0px, -10px) scale(1.05);
+        opacity: 0.8;
+        text-shadow: 0px 150px 20px rgba(0, 0, 0, 0.8);
+    }
+    100% {
+        -webkit-transform: translate(0px, 0px) scale(1.0);
+        opacity: 0.8;
+        text-shadow: none;
+    }
+}

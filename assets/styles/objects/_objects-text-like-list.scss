@@ -1,0 +1,10 @@
+.text-like-list {
+    list-style: square !important;
+    
+    li {
+        font-family: "Lato";
+        list-style-position: inside;
+        font-size: inherit;
+        padding: 5px 15px;
+    }
+}

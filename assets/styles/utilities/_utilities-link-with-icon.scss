@@ -1,0 +1,17 @@
+@import "../../../assets/styles/app-variables";
+
+.link-with-icon {
+    display: flex;
+    flex-flow: row nowrap;
+
+    img {
+        width: 20px;
+        height: 20px;
+        margin-right: 2px;
+    }
+
+    &:hover {
+        transform: none;
+        text-decoration: underline;
+    }
+}

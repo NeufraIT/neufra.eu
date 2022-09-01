@@ -1,0 +1,78 @@
+
+// background colors
+$primary: #007032;
+$secondary: #004826;
+$thirdery: #bb266a;
+$success: #04bb53;
+$info: #0089ff;
+$warning: #fb8d59;
+$danger: #bb0e0e;
+
+// text colors
+$text-color-primary: #0A0F0F;
+$text-color-secondary: #FFFFFF;
+$text-color-thirdery: #007032;
+$nav-text-color: #99999a;
+
+// button colors
+$button-color-primary: #00b5dd;
+$button-color-secondary: #00b5dd;
+$button-color-thirdery: #00b5dd;
+
+$table-hover-color: #ffffff;
+$table-border-color: #d8d8d8;
+
+// Components:
+// Define common padding and border radius sizes and more.
+$primary-rad: 4px;
+$secondary-rad: 4px;
+$terdery-rad: 100px;
+$img-border-radius: 4px;
+
+// Body:
+// Settings for the `<body>` element.
+$body-bg: #FFFFFF;
+$card-bg: #EBEBEB;
+
+// Typography:
+// Font, line-height, and colo
+$font-size-base: 1rem;
+$font-weight-thin: 200;
+$font-weight-normal: 300;
+$font-weight-semi-bold: 500;
+$font-weight-bold: 600;
+$font-weight-bolder: 700;
+$font-weight-black: 800;
+$font-size-inputs: 0.8rem;
+$icon-font-family: 'Font Awesome 5 Free';
+
+$primary-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.20); //2dp
+$secondary-shadow: 0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.20); //4dp
+$therdery-shadow: 0 1px 1px 0 rgba(0,0,0,0.14), 0 2px 1px -1px rgba(0,0,0,0.12), 0 1px 3px 0 rgba(0,0,0,0.20); //1dp
+$hover-shadow: 0 8px 10px 1px rgba(0,0,0,0.14), 0 3px 14px 2px rgba(0,0,0,0.12), 0 5px 5px -3px rgba(0,0,0,0.20); //8dp
+
+// Containers width:
+$container-width-phone: 500px;
+$container-width-tablet-portrait: 800px;
+$container-width-tablet-landscape: 1000px;
+$container-width-desktop: 1200px;
+$container-width-big-desktop: 1800px;
+
+$header-height-phone: 80px;
+$header-height-tablet-portrait: 90px;
+$header-height-tablet-landscape: 100px;
+$header-height-desktop: 110px;
+$header-height-big-desktop: 120px;
+
+$footer-height-phone: 300px;
+$footer-height-tablet-portrait: 300px;
+$footer-height-tablet-landscape: 300px;
+$footer-height-desktop: 300px;
+$footer-height-big-desktop: 300px;
+
+$poster-height-phone: 40vh;
+$poster-height-tablet-portrait: 300px;
+$poster-height-tablet-landscape: 350px;
+$poster-height-desktop: 450px;
+$poster-height-big-desktop: 550px;
+
