@@ -57,6 +57,8 @@
     "email": "email",
     "phone": "telephone",
     "fax": "fax",
+    "Hr.": "Mr.",
+    "Fr.": "Mrs.",
     "branchManagement": "Branch Management",
     "nationalDisposition": "National Disposition",
     "internationalDisposition": "International Disposition",
