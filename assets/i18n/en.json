@@ -62,6 +62,8 @@
     "branchManagement": "Branch Management",
     "nationalDisposition": "National Disposition",
     "internationalDisposition": "International Disposition",
+    "importDisposition": "Import",
+    "exportDisposition": "Export",
     "management": "Administration",
     "humanResources": "Human Resources",
     "accounting": "Accounting",
@@ -98,7 +100,6 @@
       "Vertretungen": "Agencies",
       "Verwaltung": "Administration",
       "Alle Verkehre": "All traffic",
-
       "Baden-Württemberg": "Baden-Wuerttemberg",
       "Baden-Württemberg / Allgäu": "Baden-Wuerttemberg / Allgaeu",
       "Baden-Württemberg / Bayern": "Baden-Wuerttemberg / Bavaria",
@@ -114,16 +115,13 @@
       "Bayern / Export Europa": "Bavaria / Export Europe",
       "Bayern / Nahverkehr": "Bavaria / Local traffic",
       "Bayern / Süddeutschland": "Bavaria / Southern Germany",
-
       "Belgien / Niederlande": "Belgium / Netherlands",
       "BeNeLux": "BeNeLux",
       "Benelux / England / Österreich / Slowakei": "Benelux / England / Austria / Slovakia",
       "Benelux / Österreich": "Benelux / Austria",
       "BeNeLux / Spanien / Portugal / Frankreich": "BeNeLux / Spain / Portugal / France",
-
       "Berlin": "Berlin",
       "Berlin / Brandenburg / Magdeburg / Meck-Pom / Sachsen / Sachsen-Anhalt / Thüringen": "Berlin / Brandenburg / Magdeburg / Meck-Pom / Saxony / Saxony-Anhalt / Thuringia",
-      "Berlin / Brandenburg / Sachsen-Anhalt / Bayern / Sachsen / Thüringen": "Berlin / Brandenburg / Sachsen-Anhalt / Bavaria / Saxony / Thuringia",
       "Berlin / Meck-Pom / Nahverkehr / Sonderfahrten / Schleswig-Holstein": "Berlin / Meck-Pom / Local traffic / Special transports / Schleswig-Holstein",
       "Berlin / Magdeburg": "Berlin / Magdeburg",
       "Berlin / Magdeburg / Mecklenburg-Vorpommern": "Berlin / Magdeburg / Mecklenburg-Western Pomerania",
@@ -134,7 +132,6 @@
       "Berlin / Mecklenburg-Vorpommern": "Berlin / Mecklenburg-Western Pomerania",
       "Berlin / Osten": "Berlin / East",
       "Berlin / Sachsen-Anhalt": "Berlin / Saxony-Anhalt",
-      
       "Bremen / Bielefeld": "Bremen / Bielefeld",
       "Bremen / Ems / Hannover": "Bremen / Ems / Hanover",
       "Bremen / Emsland / Hannover": "Bremen / Emsland / Hanover",
@@ -146,20 +143,15 @@
       "Bremen / Ostfriesland / Münsterland / Rheinland": "Bremen / East Frisia / Münsterland / Rheinland",
       "Bremen / Rheinland / Ostfriesland": "Bremen / Rhineland / East Frisia",
       "Bremen / Westfalen / Kassel / Hannover": "Bremen / Westphalia / Kassel / Hanover",
-
       "Chemnitz / Leipzig": "Chemnitz / Leipzig",
       "Chemnitz / Leipzig / Dresden": "Chemnitz / Leipzig / Dresden",
-
       "Deutschland - Nord": "Germany - North",
       "Deutschland - West": "Germany - West",
       "Deutschland - Süd / West": "Germany - South / West",
       "Deutschland - Süd / Ost": "Germany - South / East",
-
       "Dispo IT-Friuli > Deutschland": "Dispo IT-Friuli > Germany",
-
       "Dresden": "Dresden",
       "Dresden / Berlin / Mecklenburg-Vorpommern": "Dresden / Berlin / Mecklenburg-Western Pomerania",
-
       "Export": "Export",
       "Export / Verkauf": "Export / Sales",
       "Export AT/CH/RO/BG/HR/Slo/It": "Export AT/CH/RO/BG/HR/Slo/It",
@@ -167,22 +159,17 @@
       "Export PLZ D 1/2": "Export PLZ D 1/2",
       "Export PLZ D 3/4/5/NL/BE/FR": "Export PLZ D 3/4/5/NL/BE/FR",
       "Export PLZ D 0": "Export PLZ D 0",
-      "Export HU/CZ/SK": "Export HU/CZ/SK",      
-
+      "Export HU/CZ/SK": "Export HU/CZ/SK",
       "FFM / Mannheim / Saar": "FFM / Mannheim / Saar",
       "Frankfurt / Fulda": "Frankfurt / Fulda",
       "Frankfurt / Koblenz / Gießen / Saarland / Frankreich / Luxemburg": "Frankfurt / Koblenz / Giessen / Saarland / France / Luxembourg",
       "Frankfurt / Würzburg": "Frankfurt / Würzburg",
       "Frankfurt / Würzburg / Mannheim / Saarland": "Frankfurt / Würzburg / Mannheim / Saarland",
       "Frankfurt / Würzburg / Mannheim / Saarland / Gießen": "Frankfurt / Würzburg / Mannheim / Saarland / Giessen",
-
       "Frankreich": "France",
-
       "Großbritannien / Skandinavien": "Great Britain / Scandinavia",
       "GB / CH / I / E / F / Skandinavien / Türkei": "GB / CH / I / E / F / Scandinavia / Turkey",
-
       "Halle / Leipzig / Chemnitz / Dresden": "Halle / Leipzig / Chemnitz / Dresden",
-
       "Hamburg": "Hamburg",
       "Hamburg / Bremen": "Hamburg / Bremen",
       "Hamburg / Bremen / Kassel / Ostwestfalen / Nahverkehr / Hannover / Recherche": "Hamburg / Bremen / Kassel / East Westphalia / Local traffic / Hanover / Research",
@@ -193,13 +180,11 @@
       "Hamburg / Schleswig-Holstein / Bremen / Bremerhaven": "Hamburg / Schleswig-Holstein / Bremen / Bremerhaven",
       "Hamburg / Schleswig-Holstein / Niedersachsen": "Hamburg / Schleswig-Holstein / Lower Saxony",
       "Hamburg / Schwerin / Schleswig-Holstein": "Hamburg / Schwerin / Schleswig-Holstein",
-
       "Hannover / Bielefeld": "Hanover / Bielefeld",
       "Hannover / Hamburg": "Hanover / Hamburg",
       "Hannover / Kassel": "Hanover / Kassel",
       "Hannover / Kassel / Bielefeld / Braunschweig / Rhein / Ruhr": "Hanover / Kassel / Bielefeld / Brunswick / Rhine / Ruhr",
       "Hannover / Ostwestfalen": "Hanover / East Westphalia",
-
       "Hessen": "Hesse",
       "Hessen / Saar": "Hesse / Saar",
       "Hessen / Saarland": "Hesse / Saarland",
@@ -207,59 +192,50 @@
       "Hessen / Rheinland-Pfalz / Saarland": "Hesse / Rhineland-Palatinate / Saarland",
       "Hessen / Rheinland-Pfalz (PLZ 54/55/56/57)": "Hesse / Rhineland-Palatinate (postal codes 54/55/56/57)",
       "Hessen / Ruhr": "Hesse / Ruhr",
-
       "Import": "Import",
       "Import Deutschland / BeNeLux - Spanien": "Import Germany / BeNeLux - Spain",
       "Import Polen": "Import Poland",
-
       "Italien": "Italy",
       "Italien - Süd": "Italy - South",
       "Italien / Schweiz": "Italy / Switzerland",
-
       "Karlsruhe / Mannheim / Saar / FFM": "Karlsruhe / Mannheim / Saar / FFM",
       "Kassel / Hannover / Bremen / Bielefeld": "Kassel / Hanover / Bremen / Bielefeld",
       "Luxemburg": "Luxembourg",
       "Magdeburg": "Magdeburg",
       "Mannheim / Saarland / Gießen": "Mannheim / Saarland / Giessen",
-  
       "Meck-Pom / Berlin / Brandenburg": "Meck-Pom / Berlin / Brandenburg",
       "Meck-Pom / Berlin / Brandenburg / Thüringen / Sachsen / Sachsen-Anhalt": "Meck-Pom / Berlin / Brandenburg / Thuringia / Saxony / Saxony-Anhalt",
       "Meck-Pom / Hamburg": "Meck-Pom / Hamburg",
       "Mecklenburg-Vorpommern / Berlin / Brandenburg": "Mecklenburg-Western Pomerania / Berlin / Brandenburg",
       "Mecklenburg-Vorpommern / Schleswig-Holstein": "Mecklenburg-Western Pomerania / Schleswig-Holstein",
-
       "Messetransporte / Linien LKW / Schweiz": "Fair transports / Local transports / Switzerland",
       "Nahverkehr": "Local transport",
       "Nahverkehr / Luxemburg / Saarland / Express": "Local traffic / Luxembourg / Saarland / Express",
       "Nahverkehr / Sonderfahrten / Schleswig-Holstein": "Local traffic / Special transports / Schleswig-Holstein",
       "Nationale und internationale temperaturgeführte Transporte": "National and international temperature controlled transports",
-
       "Neufra Italien / Österreich / Ungarn": "Neufra Italy / Austria / Hungary",
       "Neufra Polen": "Neufra Poland",
       "Neufra Spanien": "Neufra Spain",
-
       "Niedersachsen": "Lower Saxony",
       "Niedersachsen / Bremen / Bremerhaven": "Lower Saxony / Bremen / Bremerhaven",
       "Niedersachsen / Ostdeutschland": "Lower Saxony / Eastern Germany",
-
       "Nord": "North",
-      "Nordbayern":"North Bavaria",
+      "Nord- / Westdeutschland": "Northern- / Western Germany",
+      "Nordbayern": "North Bavaria",
       "Nordbayern / Thüringen": "North Bavaria / Thuringia",
       "Nordbayern / Thüringen / Südbayern / Allgäu": "North Bavaria / Thuringia / South Bavaria / Allgaeu",
-      "Norddeutschland":"Northern Germany",
+      "Norddeutschland": "Northern Germany",
       "Norddeutschland / Nordeuropa": "Northern Germany / Northern Europe",
-      "Norden":"North",
+      "Norden": "North",
       "Norden / Export": "North / Export",
       "Norden / Meck-Pom / Nahverkehr": "North / Meck-Pom / Local traffic",
       "Nordrhein-Westfalen": "North Rhine-Westphalia",
-
       "Nürnberg / München": "Nuremberg / Munich",
       "Nürnberg / Regensburg / Augsburg / München": "Nuremberg / Regensburg / Augsburg / Munich",
       "Nürnberg / Stuttgart / Bodensee": "Nuremberg / Stuttgart / Lake Constance",
-
       "Osnabrück / Münster / Ostwestfalen / Kassel / Hannover": "Osnabrück / Münster / East Westphalia / Kassel / Hanover",
-
       "Ost": "East",
+      "Ost- / Süddeutschland": "Eastern- / Southern Germany",
       "Ostdeutschland": "Eastern Germany",
       "Ostdeutschland / Osteuropa": "Eastern Germany / Eastern Europe",
       "Osten": "East",
@@ -270,22 +246,19 @@
       "Osteuropa": "Eastern Europe",
       "Osteuropa / Express / Italien / Österreich / Temperaturgeführte Transporte": "Eastern Europe / Express / Italy / Austria / Temperature-controlled transports",
       "Ostwestfalen / Niedersachsen": "East Westphalia / Lower Saxony",
-
       "Österreich": "Austria",
       "Österreich / CZ": "Austria / CZ",
       "Österreich / Italien / Schweiz": "Austria / Italy / Switzerland",
       "Österreich / Schweiz": "Austria / Switzerland",
       "Österreich / Schweiz / Balkan": "Austria / Switzerland / Balkans",
-      "Österreich Inland":"Austria inland",
+      "Österreich Inland": "Austria inland",
       "Österreich PLZ 1 / 2 / 3 / 7 / 8": "Austria postal codes 1 / 2 / 3 / 7 / 8",
       "Österreich PLZ 4 / 5 / 6 / 9": "Austria postal codes 4 / 5 / 6 / 9",
-
       "Polen": "Poland",
       "Polen / Baltikum": "Poland / Baltic States",
       "Polen / Baltikum / Großbrítannien": "Poland / Baltic States / Great Britain",
       "Polen / CZ / Ungarn / Balkan": "Poland / CZ / Hungary / Balkan",
       "Polen / Tschechien / Spanien / Frankreich / Slowakei": "Poland / Czech Republic / Spain / France / Slovakia",
-
       "Rhein / Ruhr": "Rhine / Ruhr",
       "Rhein / Ruhr / Belgien / Niederlande": "Rhine / Ruhr / Belgium / Netherlands",
       "Rhein / Ruhr / Bielefeld / Osnabrück": "Rhine / Ruhr / Bielefeld / Osnabrück",
@@ -295,63 +268,47 @@
       "Rhein / Ruhr / Siegerland": "Rhine / Ruhr / Siegerland",
       "Rhein-Ruhr": "Rhine-Ruhr",
       "Rhein-Ruhr / Siegerland": "Rhine-Ruhr / Siegerland",
-
       "Rheinland": "Rhineland",
       "Rheinland / Rhein-Ruhr/ Siegerland": "Rhineland / Rhine-Ruhr/ Siegerland",
       "Rheinland / Ruhrgebiet / Bielefeld / Münster": "Rhineland / Ruhr area / Bielefeld / Münster",
-      "Rheinland / Ruhrgebiet / Hessen / Saarland / Baden-Württemberg / Hamburg / Bremen / Niedersachsen / Nordhessen":"Rhineland / Ruhr area / Hesse / Saarland / Baden-Wuerttemberg / Hamburg / Bremen / Lower Saxony / North Hesse",
       "Rheinland / Siegerland / Mosel": "Rhineland / Siegerland / Mosel",
       "Rheinland / Siegerland / Mosel / Hamburg / Bremen / Ostwestfalen / Nahverkehr": "Rhineland / Siegerland / Mosel / Hamburg / Bremen / East Westphalia / Local traffic",
       "Rheinland-Pfalz / Nordrhein-Westfalen": "Rhineland-Palatinate / North Rhine-Westphalia",
-  
       "Rhein-Main / Saarland / Baden-Württemberg": "Rhine-Main / Saarland / Baden-Wuerttemberg",
       "Rhein-Main / Saarland / Hessen / Südbayern / Allgäu": "Rhine-Main / Saarland / Hesse / South Bavaria / Allgaeu",
       "Rhein-Main / Rheinland-Pfalz / Baden-Württemberg / Saarland": "Rhine-Main / Rhineland-Palatinate / Baden-Wuerttemberg / Saarland",
-
       "Saarland / Baden-Württemberg / Rheinland Pfalz (PLZ 66/67)": "Saarland / Baden-Wuerttemberg / Rhineland-Palatinate (postal codes 66/67)",
       "Saarland / Mannheim / Frankfurt": "Saarland / Mannheim / Frankfurt",
       "Saarland / Rheinland-Pfalz": "Saarland / Rhineland-Palatinate",
-
       "Sachsen / Sachsen-Anhalt": "Saxony / Saxony-Anhalt",
       "Sachsen / Sachsen-Anhalt / Thüringen": "Saxony / Saxony-Anhalt / Thuringia",
-
       "Schleswig-Holstein": "Schleswig-Holstein",
       "Schweiz / Italien / Frankreich / BeNeLux": "Switzerland / Italy / France / BeNeLux",
-      
       "Skandinavien": "Scandinavia",
-
       "Spanien - Deutschland": "Spain - Germany",
       "Spanien / Portugal / Frankreich": "Spain / Portugal / France",
-      
       "Spezialtransporte / Nahverkehr": "Special transports / Local transport",
-
       "Stuttgart / Bodensee / München / Nahverkehr": "Stuttgart / Lake Constance / Munich / Local transport",
       "Stuttgart / Freiburg / Würzburg / Nürnberg": "Stuttgart / Freiburg / Würzburg / Nuremberg",
       "Stuttgart / Ulm / Freiburg": "Stuttgart / Ulm / Freiburg",
-
       "Süd": "South",
-      "Süden":"South",
+      "Süden": "South",
       "Süden / Nahverkehr": "South / Local traffic",
       "Südbayern / Allgäu / Nürnberg / Nordbayern": "Southern Bavaria / Allgaeu / Nuremberg / Northern Bavaria",
       "Süddeutschland": "Southern Germany",
       "Süd-Osten / Berlin / Harz / Magdeburg": "South-East / Berlin / Harz / Magdeburg",
-
       "Thüringen / Nordbayern / Kassel": "Thuringia / North Bavaria / Kassel",
       "Thüringen / Sachsen": "Thuringia / Saxony",
       "Thüringen / Sachsen / Sachsen-Anhalt": "Thuringia / Saxony / Saxony-Anhalt",
-
       "Türkei / Spezialverkehre / Dänemark / Nordeuropa": "Turkey / Special transports / Denmark / Northern Europe",
       "Türkei / Spezialverkehre / Vorderasien": "Turkey / Special transports / Near East",
-  
       "Ungarn > Deutschland": "Hungary > Germany",
       "Ungarn > Süddeutschland": "Hungary > Southern Germany",
-
       "West": "West",
       "West- und Nordeuropa": "Western and Northern Europe",
       "West / Hannover": "West / Hanover",
       "Westen / BeNeLux": "West / BeNeLux",
       "Westdeutschland / BeNeLux": "Western Germany / BeNeLux",
-
       "Würzburg / Nürnberg / Regensburg": "Würzburg / Nuremberg / Regensburg"
     },
     "branch": {
