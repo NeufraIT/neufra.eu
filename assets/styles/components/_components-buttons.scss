@@ -11,11 +11,12 @@
     line-height: 1;
 
     &--arrowed  {
-        
+      text-transform: unset;
+
         &::after {
             content: "→";
             height: 100%;
-            display: inline-block; 
+            display: inline-block;
             margin-left: 5px;
             color: $text-color-secondary;
             font-size: 1*$font-size-base;
