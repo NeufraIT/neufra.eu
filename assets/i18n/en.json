@@ -68,6 +68,8 @@
     "humanResources": "Human Resources",
     "accounting": "Accounting",
     "centralAccounting": "Central Accounting",
+    "centralAccountingAndHeadquarters": "Head office & Central Accounting",
+    "headquarters": "Head office",
     "executiveManagement": "Executive Management",
     "managementDetails": "Management Details",
     "department": {
