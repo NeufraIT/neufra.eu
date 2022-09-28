@@ -68,6 +68,8 @@
     "humanResources": "Personalabteilung",
     "accounting": "Buchhaltung",
     "centralAccounting": "Zentralbuchhaltung",
+    "centralAccountingAndHeadquarters": "Firmensitz & Zentralbuchhaltung",
+    "headquarters": "Firmensitz",
     "executiveManagement": "Geschäftsleitung",
     "managementDetails": "Geschäftsangaben",
     "department": {
