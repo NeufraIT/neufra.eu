@@ -1,6 +1,6 @@
 Break,Section,Location/Department,Person,Telefon,Hotline/Telefax
-new line,Niederlassungsleitung,Kistlerhofstr. 168 / 81379 München ,München,0 89 - 74 81 24 - 0 ,0 89 - 74 81 24 -47
-new line,Niederlassungsleitung,München ,Hr. Peter Reindl ,0 89 - 74 81 24 - 10,
+new line,Niederlassungsleitung,Kistlerhofstr. 168 / 81379 München ,München,+49 89 748124-0,+49 89 748124-47
+new line,Niederlassungsleitung,München ,Hr. Peter Reindl ,+49 89 748124-10,
 new line ,Geschäftsleitung ,Geschäftsleitung ,Hr. Peter Reindl ,-10,
 new line,Disposition National,Hamburg / Schleswig-Holstein,Hr. Fabian Mühlbauer ,-20,
 new line,Disposition National,Bremen / Westfalen / Kassel / Hannover ,Hr. Franz Detterbeck ,-27,
@@ -12,7 +12,7 @@ new line,Disposition National,Rhein-Main / Saarland / Baden-Württemberg ,Hr. Th
 new line,Disposition National,Rhein-Ruhr ,Hr. Brian Thomas ,-25,
 new line ,Disposition International,BeNeLux ,Hr. Davide Mangione ,-60,
 new line,Disposition International,BeNeLux ,Hr. Robin Voigtmann ,-31,
-new line,Disposition International,Spanien / Portugal / Frankreich ,Hr. Oliver Soriano ,-50,
+new line,Disposition International,Spanien / Portugal / Frankreich,Hr. Oliver Soriano ,-50,
 new line,Disposition International,Großbritannien / Skandinavien ,Hr. Philipp Steigele ,-54,
 new line,Disposition International,Österreich / Schweiz / Balkan ,Hr. Erman Gümüs ,-30,
 new line,Disposition International,Polen / Baltikum ,Fr. Kornelia Subocz ,-70,

@@ -1,12 +1,11 @@
 Break,Section,Location/Department,Person,Telefon,Hotline/Telefax
-new line,Niederlassungsleitung,Graflinger Str. 29 / 94469 Deggendorf ,Deggendorf ,09 91 - 29 03 3-0,09 91 - 29 03 3 - 38
-new line,Niederlassungsleitung,Deggendorf ,Hr. Peter Weigand ,09 91 - 29 03 3 - 100,0175 5819365
-new line,Disposition National,Schleswig-Holstein ,Hr. Thomas Hofmeister ,-220,
-new line,Disposition National,Hamburg / Bremen / Niedersachsen ,Hr. Jonas Stadler ,-221,
+new line,Niederlassungsleitung,Graflinger Str. 29 / 94469 Deggendorf ,Deggendorf ,+49 991 29033-0,+49 991 29033-38
+new line,Niederlassungsleitung,Deggendorf ,Hr. Peter Weigand ,+49 991 29033-100,+49 175 5819365
+new line,Disposition National,Schleswig-Holstein / Hamburg / Bremen / Niedersachsen ,Hr. Thomas Hofmeister ,-220,
 new line,Disposition National,Rhein / Ruhr / Bielefeld / Osnabrück ,Fr. Lena Gasper ,-240,
 new line,Disposition National,Chemnitz / Leipzig / Dresden,Hr. Matthias Barski ,-200,
 new line,Disposition National,Berlin / Mecklenburg-Vorpommern ,Fr. Katharina Dahmer ,-202,
-new line,Disposition National,Frankfurt / Würzburg,Hr. Konstantin Artuchow ,-260,
+new line,Disposition National,Frankfurt / Würzburg,Hr. Jonas Stadler ,-270,
 new line,Disposition National,Mannheim / Saarland / Gießen,Hr. Martin Styrz ,-261,
 new line,Disposition National,Nürnberg / Stuttgart / Bodensee ,Hr. Eric Schlegel ,-270,
 new line,Verwaltung,Abrechnung / Lademittel ,Fr. Simone Daubner ,-401,
