@@ -36,7 +36,7 @@ export const ADDITIONAL_DATA: any = {
 			'Sandra Hast-Herrendorf',
 			'Peter Reindl',
 		],
-		headquarters: 'Wien ',
+		headquarters: 'Wien',
 		companyRegistrationNumber: '243401v',
 		taxNumber: '09/029/9157',
 		vtaNumber: 'ATU57594927',
