@@ -379,7 +379,10 @@
   "career": {
     "info": {
       "pr1": "Das Fundament unseres Unternehmens sind unsere Mitarbeiter/-innen. Daher sind wir immer auf der Suche nach motivierten neuen Kollegen/-innen. Berufserfahrene Disponenten/-innen sind der Garant für Qualität und Wachstum und sind selbstverständlich herzlich willkommen bei uns die Herausforderung der eigenständigen Bearbeitung einer Verkehrsrelation anzunehmen.",
-      "pr2": "Durchstöbern Sie gerne unsere aktuellen Stellenagebote, Bewerbungen können Sie direkt an die entsprechende Niederlassung senden."
+      "pr2": "Durchstöbern Sie gerne unsere aktuellen Stellenagebote, Bewerbungen können Sie direkt an die entsprechende Niederlassung senden.",
+	  "pr3": "Du hast Interesse an einer Ausbildung bei der NEUFRA? Hier findest du unsere Ausbildungsangebote zum:",
+	  "pr4": "Kaufmann (m/w/d) für Spedition und Logistikdienstleistung",
+	  "pr5": "Kaufmann (m/w/d) für Büromanagement"
     },
     "position": "Position",
     "location": "Standort",
@@ -516,6 +519,7 @@
   },
   "shared": {
     "phone": "Telefon",
-    "fax": "Telefax"
+    "fax": "Telefax",
+    "showMore": "mehr..."
   }
 }
