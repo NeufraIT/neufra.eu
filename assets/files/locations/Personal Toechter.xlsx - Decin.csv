@@ -1,6 +1,8 @@
 Break,Section,Location/Department,Person,Telefon,Hotline/Telefax
-new line,Niederlassungsleitung,Folknářská 1246/21 / 40502 CZ-Děčín,Děčín,00420 412 43 91-00,
-new line,Niederlassungsleitung,Decin,Hr. Marcel Tschakert ,00420 412 43 91-10,00420 771 175 800
-new line,Disposition National ,Tschechien,Hr. Čestmír Bílý,-31,
-new line,Import,Deutschland ,Hr. Marcel Tschakert ,-21,
-new line,Export ,Deutschland1,Hr. Čestmír Bílý,-31,
+new line,Niederlassungsleitung,Folknářská 1246-21 / 405 02 Děčín,Decin,+420 412 4391-00,
+new line,Niederlassungsleitung,Decin,Hr. Marcel Tschakert ,+420 412 4391-31,
+new line,Niederlassungsleitung,Stellvertretung,Hr. Herbert Mustermann,+420 000 0000-32,
+new line,Disposition National,Tschechien,Hr. Cestmir Bily ,-31,
+new line,Disposition International,Import Deutschland,Hr. Marcel Tschakert ,-21,
+new line,Disposition International,Export Deutschland,Hr. Cestmir Bily ,-31,
+new line,Verwaltung,Abrechnung / Schäden,Hr. Marcel Tschakert ,-21,
