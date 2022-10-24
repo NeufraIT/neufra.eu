@@ -1,11 +1,12 @@
 Break,Section,Location/Department,Person,Telefon,Hotline/Telefax
 new line,Niederlassungsleitung,Via Ca Nova Zampieri 4 / 37057 I-San Giovanni Lupatoto (Verona),Verona,+39 45 87741-11,+39 45 8753005
 new line,Niederlassungsleitung,Verona,Hr. Marek Edelstein ,+39 45 87741-10,+39 33 57795439
-new line,Disposition National,Ostdeutschland / Osteuropa,Hr. Marek Edelstein ,-20,
-new line,Disposition National,Ostdeutschland / Osteuropa,Hr. Andrea Guerra ,-22,
-new line,Disposition National,Ostdeutschland / Osteuropa,Hr. Daniele Marino ,-30,
-new line,Disposition National,Norddeutschland / Nordeuropa,Hr. Giulio Giubilei ,-26,
-new line,Disposition National,Süddeutschland,Hr. Massimiliano Volterra ,-28,
-new line,Disposition National,Westdeutschland / BeNeLux,Fr. Alessandra Armani ,-32,
-new line,Disposition National,Dispo IT-Friuli > Deutschland,Hr. Erwin Danese ,-24,
-new line,Verwaltung,Verwaltung,Fr. Wally Mazza ,-50,
+new line,Export,Bayern / Ostdeutschland,Hr. Marek Edelstein ,-20,
+new line,Export,CZ / SK / SLO / HU / PL / Baltikum,Hr. Andrea Guerra ,-22,
+new line,Export,CZ / SK / SLO / HU / PL / Baltikum,Hr. Daniele Marino ,-30,
+new line,Export,Norddeutschland / DK / Skandinavien,Hr. Giulio Giubilei ,-26,
+new line,Export,Süddeutschland / Österreich,Hr. Massimiliano Volterra ,-28,
+new line,Export,Westdeutschland / BeNeLux,Fr. Alessandra Armani ,-32,
+new line,Export,Friuli - Deutschland,Hr. Erwin Danese ,-24,
+new line,Verwaltung,Lademittel / Abrechnung,Fr. Wally Mazza ,-50,
+new line,Verwaltung,Abrechnung,Fr. Marianna Rovario,-50,
