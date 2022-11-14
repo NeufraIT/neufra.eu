@@ -11,7 +11,7 @@ a {
         color: $text-color-primary;
         transform: scale(1.01);
     }
-    
+
     &:focus-visible {
         outline: none;
     }
@@ -20,3 +20,4 @@ a {
 *:focus {
     outline: none;
 }
+
