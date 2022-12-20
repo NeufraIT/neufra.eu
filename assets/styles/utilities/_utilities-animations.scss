@@ -69,17 +69,17 @@
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
     animation-name: come-from-right;
-    
+
     @include for-desktop-up {
         animation-name: none;
     }
-    
+
 }
 
 // rotation
 .vert-to-45right ,
 .vert-to-45left,
-.inclined75-to-vert,
+.inclined-75-to-vert,
 .inclined-45-to-vert,
 .inclined-25-to-vert  {
     transform-origin: center center;
@@ -97,7 +97,7 @@
     animation-name: to-45-left;
 }
 
-.inclined75-to-vert {
+.inclined-75-to-vert {
     animation-name: from75-to-vert;
 }
 

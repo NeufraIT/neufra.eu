@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+<url>
+
+<loc>https://www.neufra.eu</loc>
+
+<changefreq>monthly</changefreq>
+
+<priority>0.8</priority>
+
+<lastmod>2022-11-21T10:46:20+00:00</lastmod>
+
+<image:image>
+
+<image:loc>image-link</image:loc>
+
+<image:title>Home</image:title>
+
+</image:image>
+
+</url>
+
+</urlset>

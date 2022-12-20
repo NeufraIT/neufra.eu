@@ -13,16 +13,16 @@
         @include for-tablet-portrait-up {
             width: $header-height-tablet-portrait;
         }
-    
+
         @include for-tablet-landscape-up {
             width: $header-height-tablet-landscape;
         }
-    
+
         @include for-desktop-up {
             width: 160px;
         }
     }
-    
+
     @include for-desktop-up {
         padding: 15px 15px 75px 15px;
         background-color: $body-bg;

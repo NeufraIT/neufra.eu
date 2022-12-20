@@ -3,7 +3,7 @@
 .menu {
     display: flex;
     flex-flow: column nowrap;
-    z-index: 10;
+    z-index: 12;
     width: 300px;
     max-width: 300px;
     height: 100vh;
@@ -18,14 +18,14 @@
         max-width: 320px;
         height: fit-content;
     }
-    
+
     @include for-tablet-landscape-up  {
         right: -20px;
         width: 350px;
         max-width: 350px;
         height: fit-content;
     }
-   
+
     @include for-desktop-up {
         padding: 0;
         max-width: unset;
@@ -45,11 +45,11 @@
         @include for-tablet-portrait-up {
             min-height: 80px;
         }
-    
+
         @include for-tablet-landscape-up {
             min-height: 70px;
         }
-        
+
         @include for-desktop-up {
             background-color: transparent;
             min-height: none;
@@ -71,7 +71,7 @@
             width: 1.8*$font-size-base;
             height: 1.8*$font-size-base;
             margin-left: auto;
-            
+
             span {
                 max-height: 28px;
                 line-height: 1;
@@ -107,7 +107,7 @@
             flex-flow: row nowrap;
             min-height: 40px;
             justify-content: space-between;
-            
+
             a {
                 font-weight: $font-weight-thin;
             }
@@ -122,7 +122,7 @@
         transition: transform 500ms ease-out;
         display: flex;
         align-items: center;
-        
+
         @include for-desktop-up {
             padding: 10px 30px;
             color: $nav-text-color;
@@ -132,17 +132,17 @@
         &:hover {
             transform: scale(1.05);
             color: $nav-text-color;
-            
+
             @include for-desktop-up {
                 color: $text-color-thirdery;
-    
+
             }
         }
     }
 
     &__item-link--active {
         text-decoration: underline;
-        
+
         @include for-desktop-up {
             color: $text-color-thirdery;
         }
