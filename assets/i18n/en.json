@@ -551,6 +551,7 @@
   },
   "shared": {
     "phone": "Telephone",
-    "fax": "Fax"
+    "fax": "Fax",
+    "showMore": "more..."
   }
 }
