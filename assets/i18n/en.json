@@ -15,45 +15,45 @@
   },
   "company": {
     "expericence": {
-      "title": "Over 50 years of business experience",
+      "title": "Over 40 years of business experience",
       "info": "Since 1979, we have been taking on full and partial loads, optimizing their composition and distributing the shipments to their respective destinations with selected vetted carriers."
     },
     "partner": {
       "title": "Neutral partner",
-      "info": " From the very beginning, our company's philosophy has been to act exclusively as a neutral forwarder for other forwarding companies, specializing in truck transports."
+      "info": "From the very beginning, it has been our company's philosophy to act exclusively as a neutral forwarder for other haulage companies and to specialise in truck transport."
     },
     "sustainable": {
-      "title": "Everything from one source",
-      "info": "We not only bring your shipment to its destination, we also control all loading equipment movements and ensure timely repatriation in case of loading equipment debts. Should damage ever occur, any claims for compensation are processed immediately. In the case of complicated damage events, we cooperate here with our subsidiary GSS Güter-Schaden-Service GmbH.(Please display the company name of GSS as a link to the homepage:"
+      "title": "One partner for all subjects",
+      "info": "We not only bring your consignment to its destination but also check all loading equipment movements. Moreover we ensure timely repatriation in case of loading equipment debts. Should damage ever occur, any claims for compensation are processed immediately. In the case of complex damage events, we cooperate here with our subsidiary GSS Güter-Schaden-Service GmbH."
     },
     "specialty": {
       "title": "Specialist in truck transports",
       "info": "As a specialist we are better than the global provider - to your advantage. Every day we load about 1,200 trucks, dispatched from 33 NEUFRA branches in Europe."
     },
     "direct-transportation": {
-      "title": "Direct-transportation without reloading",
+      "title": "Direct transport without reloading",
       "info": "Your shipments are transported directly to the recipient without reloading, so that they reach the desired destination quickly and reliably with minimized risk of damage."
     },
     "shipment-tracking": {
-      "title": "Shipment tracking on request",
+      "title": "Tracking on request",
       "info": "We will accompany your shipment until it has been unloaded at the recipient's premises. If you wish, you can receive status updates from us at any time."
     },
     "digitalisation-partner": {
       "title": "Partner for a digital future",
-      "info": "With our EDP team, we are always developing our programs. WithColleta, we will drive the path of digitalization."
+      "info": "With our EDP team, we are always developing our programs. With Colleto, we will drive the path of digitalization."
     },
     "history": {
       "title": "History",
-      "first": "What started on 01.01.1979 with a total of 5 people, has developed into an internationally positioned freight forwarding service provider with more than 400 employees in 33 branches in Europe to date.",
-      "second": "The main focus in the eighties was the establishment of a nationwide network of branches in the old Federal Republic in order to meet the growing demands of forwarding customers. After the political turnaround in 1989, NEUFRA-Spedition also expanded into the new federal states. Parallel to the expansion of the German branch network, the strategic decision was made in the 1990s to develop NEUFRA into a European freight forwarding company. As a consequence, subsidiaries were founded in Italy and Hungary.",
-      "third": "After the turn of the millennium, subsidiaries followed in Austria, Poland, Spain and the Czech Republic. Currently, of course, digitization is also playing a special role. Not only have administrative processes been and are being digitally simplified for NEUFRA and its business partners, but the development of its own web application and app for freight management also secure the future of the NEUFRA Group in the digital age."
+      "first": "What started on 01.01.1979 with a total of 5 people, has developed into an internationally positioned freight forwarding service provider with more than 400 employees in 33 branches in Europe.",
+      "second": "The main focus in the eighties was the establishment of a nationwide network of branches in the old Federal Republic of Germany in order to meet the growing demands of forwarding customers. After the political turnaround in 1989, NEUFRA-Spedition also expanded into the new federal states. Parallel to the expansion of the German branch network, in the 1990s the strategic decision was made to develop NEUFRA into a European freight forwarding company. As a consequence, subsidiaries were founded in Italy and Hungary.",
+      "third": "After the turn of the millennium, subsidiaries followed in Austria, Poland, Spain and the Czech Republic. Currently, of course, digitization is also playing a special role. Not only administrative processes have been and are being digitally simplified for NEUFRA and its business partners, but also the development of its own web application and app for freight management secure the future of the NEUFRA Group in the digital age."
     },
     "documents": {
-      "title": "Important NEUFRA forms to download"
+      "title": "Important NEUFRA documents for download"
     }
   },
   "locations": {
-    "info": "Through our dense network of branches, we ensure the greatest possible geographical proximity to our business partners. Simply click on a NEUFRA branch in the map for detailed information on relations and contact persons.",
+    "info": "Our dense network of branches ensures the greatest possible geographical proximity to our business partners. For detailed information on relations and contact persons, simply click on a NEUFRA branch on the map.",
     "email": "email",
     "phone": "telephone",
     "fax": "fax",
@@ -74,13 +74,13 @@
     "executiveManagement": "Executive Management",
     "managementDetails": "Management Details",
     "department": {
-      "Abrechnung": "Accounting",
-      "Abrechnung / Lademittel": "Settlement / Loading equipment",
-      "Abrechnung / Schäden": "Settlement / Damages",
+      "Abrechnung": "Billing",
+      "Abrechnung / Lademittel": "Billing / Loading equipment",
+      "Abrechnung / Schäden": "Billing / Damages",
       "Abrechnung / Service national": "Billing / Service national",
       "Abrechnung / Service international": "Billing / Service international",
       "Allgemeine Disposition": "General Disposition",
-      "Assistenz der Geschäftsführung": "Assistance to the management",
+      "Assistenz der Geschäftsführung": "Management Assistant",
       "Auszubildende": "Trainee",
       "Auszubildender": "Trainee",
       "Buchhaltungsleitung": "Accounting management",
@@ -94,12 +94,12 @@
       "Lademittel / Abrechnung / Schäden": "Loading equipment/ Accounting / Damages",
       "Lademittel / Schäden": "Loading equipment / Damages",
       "Lademittel Unternehmer": "Loading equipment contractor",
-      "Personalabteilung": "Personnel department",
+      "Personalabteilung": "Human Resources",
       "Recherche / Service": "Research / Service",
       "Schäden": "Damages",
-      "Schäden / Lademittel": "Damages / Loading means",
+      "Schäden / Lademittel": "Damages / Loading equipment",
       "Schäden / Abrechnung": "Damages / Billing",
-      "Schäden / Lademittel Kunden": "Damages / Loading Customers",
+      "Schäden / Lademittel Kunden": "Damages / Loading equipment Customers",
       "Schäden & Assistenz der Geschäftsleitung": "Damages & Management Assistance",
       "Service": "Service",
       "Verwaltung": "Administration",
@@ -369,11 +369,11 @@
     },
     "international": {
       "title": "International transports",
-      "info": "We also transport your goods outside the borders of Europe. You can find our experts for the Middle East in the Frankfurt branch, for example."
+      "info": "We also transport your goods outside the borders of Europe. You can find our experts for the Middle East at our branch in Frankfurt, for example."
     },
     "temperatureControlled": {
       "title": "Temperature-controlled transports",
-      "info": "You can find our specialists for temperature-controlled transports at our Leipzig location."
+      "info": "You can find our specialists for temperature-controlled transports at our branch in Leipzig."
     },
     "dangerGoodss": {
       "title": "Dangerous Goods Transports",
@@ -382,15 +382,48 @@
   },
   "career": {
     "info": {
-      "pr1": "Our employees are the foundation of our company. Therefore we are always looking for motivated new colleagues. Experienced dispatchers are the guarantor for quality and growth and are of course welcome to take on the challenge of independently processing a traffic relation.",
-      "pr2": "Feel free to browse our current job offers, applications can be sent directly to the corresponding branch."
+      "pr1": "Our employees are the basis of our company. Therefore, we are always looking for motivated new colleagues. Experienced dispatchers are the guarantor for quality and growth and are welcome to take on the challenge of independently handling a traffic relation.",
+      "pr2": "Feel free to browse our current job offers, applications can be sent directly to the corresponding branch.",
+      "pr3": "Are you interested in training at NEUFRA? Here you can find our training offers for:",
+      "pr4": "Management Assistant for Freight Forwarding and Logistic Services",
+      "pr5": "Management Assistant for Office Communication"
     },
     "position": "Position",
     "location": "Location",
     "tasks": "Your tasks",
     "requirements": "Our requirements",
     "offer": "We offer",
-    "contactPerson": "Contact person"
+    "contactPerson": "Contact person",
+    "internship": {
+      "spedition": {
+        "title": "Management Assistant for Freight Forwarding and Logistic Services",
+        "pr1": "The NEUFRA Group is an internationally positioned medium-sized company that specialises in truck transport. Every day we load approx. 1200 trucks, dispatched from 33 NEUFRA branches in Europe. Since 1979, we have been taking on full and part loads and optimising their composition.",
+        "pr2": "During your training as a Management Assistant for Freight Forwarding and Logistic Services, you will get to know the many facets of scheduling. New tasks and challenges await you every day when purchasing, planning and selling transport services, which all of us, including our experienced dispatchers, master together as a team. Of course, your training will combine the specifics of freight forwarding with the general commercial areas of administration and accounting.",
+        "pr3": "If you,",
+        "li1": "are outgoing,",
+        "li2": "have organisational skills,",
+        "li3": "have negotiating skills,",
+        "li4": "like to work independently,",
+        "li5": "like to make decisions on your own responsibility and",
+        "li6": "keep an overview even in stressful situations,",
+        "pr4": "then training at NEUFRA is the right choice for you.",
+        "pr5": "You can expect an open corporate culture with flat hierarchies in a personalised working environment. Your everyday working life will take place in a modern environment in which the majority of the process steps are already fully digitalised. We offer you a future-proof workplace with the goal of a long-term collaboration.",
+        "pr6": "Did we arouse your interest? Then get in touch with us, we offer this vocational training at all our locations and look forward to receiving your application to the relevant branch management."
+      },
+      "management": {
+        "title": "Management Assistant for Office Communication",
+        "pr1": "The NEUFRA Group is an internationally positioned medium-sized company that specialises in truck transport. Every day we load approx. 1200 trucks, dispatched from 33 NEUFRA branches in Europe. Since 1979, we have been taking on full and part loads and optimising their composition.",
+        "pr2": "The training for Management Assistant for Office Communication is characterised by its diverse fields of learning. After the first year of training, you will therefore deepen your knowledge in two of a total of ten optional qualifications. Since you will have many points of contact with the topics of the forwarding industry during your training at NEUFRA, you should also be interested in the world of logistics.",
+        "pr3": "If you,",
+        "li1": "take pleasure in working with figures,",
+        "li2": "have a talent for organisation,",
+        "li3": "work in a thorough and structured manner,",
+        "li4": "work independently and responsibly,",
+        "pr4": "then training at NEUFRA is the right choice for you.",
+        "pr5": "You can expect an open corporate culture with flat hierarchies in a personalised working environment. Your everyday working life will take place in a modern environment in which the majority of the process steps are already fully digitalised. We offer you a future-proof workplace with the goal of a long-term collaboration.",
+        "pr6": "Did we arouse your interest? Then contact us; we offer this vocational training at our locations in Deggendorf, Frankfurt, Munich, Neuss and Nuremberg. Please send your application documents to the relevant branch management."
+      }
+    }
   },
   "transportCompany": {
     "capacityExploitation": {
@@ -398,12 +431,12 @@
       "info": "Then let's talk individually about a collaboration tailored for both parties. All points will be agreed with you, from the number of loading and unloading points to the destination and freight price."
     },
     "cooperation": {
-      "title": "Are you interested in cooperation as a partner?",
-      "info": "Our goal is a long-term business relationship with planning security for both sides, because reliable business partners are the be-all and end-all in our industry."
+      "title": "Are you interested in working together as partners?",
+      "info": "Our goal is a long-term business relationship with planning reliability for both sides, because reliable business partners are the be-all and end-all in our industry."
     },
     "interest": {
       "title": "Did we arouse your interest?",
-      "info": "Then get in touch with us; simply contact the branch nearest you."
+      "info": "Then get in touch with us; just contact the branch nearest you."
     },
     "toOurLocations": "Our Locations"
   },
