@@ -303,7 +303,7 @@
 			"Spanien": "Spanien",
 			"Spanien / Portugal / Frankreich": "Spanien / Portugal / Frankreich",
 			"Spezialtransporte / Nahverkehr": "Spezialtransporte / Nahverkehr",
-			"Stuttgart / Freiburg / Würzburg / Nürnberg": "Stuttgart / Freiburg / Würzburg / Nürnberg",
+			"Stuttgart / Freiburg": "Stuttgart / Freiburg",
 			"Stuttgart / Ulm / Freiburg": "Stuttgart / Ulm / Freiburg",
 			"Süd": "Süd",
 			"Süden": "Süden",
@@ -331,6 +331,7 @@
 			"Westen / BeNeLux": "Westen / BeNeLux",
 			"Westdeutschland": "Westdeutschland",
 			"Westdeutschland / BeNeLux": "Westdeutschland / BeNeLux",
+			"Würzburg / Nürnberg": "Würzburg / Nürnberg",
 			"Würzburg / Nürnberg / Regensburg": "Würzburg / Nürnberg / Regensburg"
 		},
 		"branch": {
