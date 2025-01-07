@@ -1,16 +1,15 @@
 Break,Section,Location/Department,Person,Telefon,Hotline/Telefax
 new line,Niederlassungsleitung,Paulusstraße 3 / 33602 Bielefeld ,Bielefeld ,+49 521 93257-0,
-new line,Niederlassungsleitung,Bielefeld ,Hr. Günter Möckel ,+49 521 93257-10,
-new line,Niederlassungsleitung,Stellvertretung Bielefeld ,Hr. Ralf Daske ,+49 521 93257-15,+49 162 2994805
+new line,Niederlassungsleitung,Bielefeld ,Hr. Ralf Daske ,+49 521 93257-10,+49 162 2994805
+new line,Niederlassungsleitung,Stellvertretung Bielefeld ,Hr. Sven Strate ,+49 521 93257-17,+49 1520 8858385
 new line,Disposition National,Baden-Württemberg / Allgäu ,Hr. Frank Reimann ,-11,
-new line,Disposition National,Bayern / Allgemeine Disposition,Hr. Günter Möckel ,-12,
-new line,Disposition National,Hamburg / Schwerin,Fr. Corinna Rolf ,-14,
+new line,Disposition National,Hamburg,Fr. Corinna Rolf ,-14,
 new line,Disposition National,Saarland / Mannheim / Frankfurt ,Hr. Ralf Daske ,-15,
-new line,Disposition National,Ostdeutschland ,Hr. Sven Strate ,-17,
-new line,Disposition National,Berlin / Mecklenburg / Hannover ,Hr. Fred Zeller ,-19,
-new line,Disposition National,Bremen / Ostfriesland / Schleswig-Holstein / Rheinland,Hr. Dennis Ornatek ,-20,
+new line,Disposition National,Ostdeutschland / Berlin / Hannover,Hr. Sven Strate ,-17,
+new line,Disposition National,Bayern,Hr. Fred Zeller ,-19,
+new line,Disposition National,Bremen / Ostfriesland / Schleswig-Holstein / Rheinland / Schwerin,Hr. Dennis Ornatek ,-20,
 new line,Disposition International,GB / CH / I / E / F / Skandinavien / Türkei ,Hr. Frank Reimann ,-11,
-new line,Disposition International,Österreich / CZ ,Hr. Günter Möckel ,-12,
+new line,Disposition International,Österreich / CZ ,Hr. Fred Zeller ,-19,
 new line,Disposition International,BeNeLux ,Hr. Ralf Daske ,-15,
 new line,Disposition International,Polen ,Hr. Sven Strate ,-17,
 new line,Verwaltung ,Lademittel / Schäden ,Fr. Cornelia Koch ,-18,
