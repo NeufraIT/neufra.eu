@@ -1,19 +1,14 @@
 Break,Section,Location/Department,Person,Telefon,Hotline/Telefax
 new line,Niederlassungsleitung,Mary-Astell-Str. 2 / 28359 Bremen ,Bremen ,+49 421 38638-0,+49 421 38638-46
-new line,Niederlassungsleitung,Bremen ,Hr. Frank Panitzki ,+49 421 38638-10,
-new line,Niederlassungsleitung,Stellvertretung Bremen ,Hr. Sven Oldiges ,+49 421 38638-12,
+new line,Niederlassungsleitung,Bremen ,Hr. Torben Kastens ,+49 421 38638-10,+49 173 4623738
+new line,Niederlassungsleitung,Stellvertretung Bremen ,Hr. Marius Gottwald ,+49 421 38638-13,+49 151 12133090
 new line,Disposition National,Osnabrück / Münster / Ostwestfalen / Kassel / Hannover ,Hr. Sven Oldiges ,-12,
-new line,Disposition National,Rhein / Ruhr / Siegerland ,Hr. Marius Gottwald ,-13,
-new line,Disposition National,Frankfurt / Fulda / Saarland / Rheinland-Pfalz ,Hr. Florian Töbelmann ,-10,
+new line,Disposition National,Rhein / Ruhr / Siegerland / BeNeLux,Hr. Marius Gottwald ,-13,
+new line,Disposition National,Frankfurt / Fulda / Saarland / Rheinland-Pfalz ,Hr. Florian Töbelmann ,-15,
 new line,Disposition National,Süd-Osten / Berlin / Harz / Magdeburg ,Hr. Timo Seefeldt ,-16,
 new line,Disposition National,Norden / Meck-Pom / Nahverkehr ,Hr. Sven Franzkowski ,-17,
-new line,Disposition National,Nürnberg / München ,Hr. Sascha Nettemeyer ,-38,
+new line,Disposition National,Nürnberg / München ,Hr. Sascha Nettemeyer ,-18,
 new line,Disposition National,Baden-Württemberg ,Hr. Torben Kastens ,-25,
-new line,Disposition International,Belgien / Niederlande ,Hr. Marius Gottwald ,-13,
-new line,Disposition International,Österreich ,Hr. Torben Kastens ,-25,
-new line,Disposition International,Luxemburg ,Hr. Florian Töbelmann ,-10,
-new line,Disposition International,Luxemburg ,Hr. Sascha Nettemeyer ,-38,
-new line,Disposition International,Skandinavien ,Hr. Sven Franzkowski ,-17,
-new line,Verwaltung,Recherche / Service ,Hr. Fabian Netzlaff ,-41,
-new line,Verwaltung,Lademittel,Fr. Petra Jacobsen ,-20,
-new line,Verwaltung,Lademittel,Fr. Irina Stahmann ,-21,
+new line,Verwaltung,Abrechnung / Lademittel,Hr. Fabian Netzlaff ,-41,
+new line,Verwaltung,Abrechnung / Lademittel,Fr. Petra Jacobsen ,-20,
+new line,Verwaltung,Abrechnung / Lademittel,Fr. Irina Stahmann ,-21,
