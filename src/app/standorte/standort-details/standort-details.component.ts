@@ -129,7 +129,9 @@ export class StandortDetailsComponent implements OnInit {
 			.split('ä').join('ae')
 			.split('ß').join('ss')
 			.split(' ').join('.')
-			.split('á').join('a');
+			.split('á').join('a')
+			.split('ř').join('r')
+			.split('č').join('c');
 		return (name + '@neufra.eu');
 	}
 
